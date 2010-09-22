@@ -1,0 +1,1 @@
+To install this module, place the entire deluxe_image_gallery folder in your sites/all/modules folder.
