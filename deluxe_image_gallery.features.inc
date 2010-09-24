@@ -44,7 +44,7 @@ function deluxe_image_gallery_imagecache_default_presets() {
             'under' => 1,
             'exact' => array(
               'width' => '940',
-              'height' => '',
+              'height' => '600',
               'xpos' => 'center',
               'ypos' => 'center',
             ),
